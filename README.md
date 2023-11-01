@@ -4,7 +4,7 @@
 
 Hey there, I'm Ashstar Tempest, your friendly neighborhood coding wizard! I've embarked on an epic journey through the digital realms to harness the powers of code and conquer the tech world.
 
-![Ashstar Tempest](https://yourimageurlhere.com)
+![Ashstar Tempest](https://avatars.githubusercontent.com/u/97588514?s=400&u=1dd6ca46bd277e7a3e5e256c9d9972d5f1492ca0&v=4)
 
 🔮 My Magic Spells:
 - Turning caffeine into code ☕✨
